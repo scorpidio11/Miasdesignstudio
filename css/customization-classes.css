@@ -1,0 +1,288 @@
+
+/*
+
+CUSTOMIZATION CLASSES
+
+1. margins
+
+2. paddings
+
+3. font color
+
+4. font weight
+
+5. font size
+
+6. section title separator
+
+7. font style
+
+*/
+
+
+/*
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+1. margins
+/////////////////////////////
+*/
+
+.mtop100 {
+    margin-top: 100px;
+}
+
+.mtop90 {
+    margin-top: 90px;
+}
+
+.mtop50 {
+    margin-top: 50px;
+}
+.mtop40 {
+    margin-top: 40px;
+}
+.mtop30 {
+    margin-top: 30px;
+}
+.mtop20 {
+    margin-top: 20px;
+}
+.mtop15 {
+    margin-top: 15px;
+}
+.mtop10 {
+    margin-top: 10px;
+}
+.marleft0 {
+    margin-left: 0;
+}
+.marright0 {
+    margin-right: 0;
+}
+.marbottom100 {
+    margin-bottom: 100px;
+}
+.marbottom50 {
+    margin-bottom: 50px;
+}
+.marbottom40 {
+    margin-bottom: 40px;
+}
+.marbottom30 {
+    margin-bottom: 30px;
+}
+.marbottom20 {
+    margin-bottom: 20px;
+}
+.marbottom10 {
+    margin-bottom: 10px;
+}
+
+
+/*
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+2. paddings
+/////////////////////////////
+*/
+
+.padleft0 {
+    padding-left: 0;
+}
+.padright0 {
+    padding-right: 0;
+}
+.no-padding {
+    padding: 0;
+}
+
+/*
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+3. font color
+/////////////////////////////
+*/
+
+.color-black {
+    color: #0f0f0f;
+}
+.color-white {
+    color: #fff;
+}
+.color-grey {
+    color: #cdcdcd;
+}
+.color-medium-grey {
+    color: #adadad;
+}
+.color-dark-grey {
+    color: #636363;
+}
+.color-yellow {
+    color: #FEC900;
+}
+.color-green {
+    color: #00fe5a;
+}
+.color-red {
+    color: #ff3154;
+}
+
+/*
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+4. font weight
+/////////////////////////////
+*/
+
+.weight-black {
+    font-weight: 800
+}
+.weight-bold {
+    font-weight: 700;
+}
+.weight-semibold {
+    font-weight: 600;
+}
+.weight-regular {
+    font-weight: 400;
+}
+.weight-light {
+    font-weight: 300;
+}
+
+/*
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+5. font size
+/////////////////////////////
+*/
+
+.text-ultrabig {
+    font-size: 30px;
+}
+.text-big {
+    font-size: 25px;
+}
+.text-biggish {
+    font-size: 20px;
+}
+.text-regular {
+    font-size: 18px;
+}
+.text-small {
+    font-size: 16px;
+}
+.text-ultrasmall {
+    font-size: 14px;
+}
+
+/*
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+6. section title separator
+/////////////////////////////
+*/
+
+.separator-red-light {
+    background: #FEC900;
+    height: 6px;
+    width: 100%;
+    margin-left: -13px position: relative;
+}
+.separator-red-light::after {
+    content: '';
+    width: 50%;
+    display: inline-block;
+    background: #fff;
+    height: 3px;
+}
+.separator-dark {
+    background: #FEC900;
+    height: 6px;
+    width: 100%;
+    margin-left: -13px position: relative;
+}
+.separator-dark::after {
+    content: '';
+    width: 50%;
+    display: inline-block;
+    background: #0f0f0f;
+    height: 3px;
+}
+
+.separator-solid {
+    background: #0f0f0f;
+    height: 6px;
+    width: 100%;
+    margin-left: -13px position: relative;
+}
+.separator-solid::after {
+    content: '';
+    width: 50%;
+    display: inline-block;
+    background: #0f0f0f;
+    height: 3px;
+}
+
+.separator-green-light {
+    background: #00fe5a;
+    height: 6px;
+    width: 100%;
+    margin-left: -13px position: relative;
+}
+.separator-green-light::after {
+    content: '';
+    width: 50%;
+    display: inline-block;
+    background: #fff;
+    height: 3px;
+}
+
+.separator-green-dark {
+    background: #00fe5a;
+    height: 6px;
+    width: 100%;
+    margin-left: -13px position: relative;
+}
+.separator-green-dark::after {
+    content: '';
+    width: 50%;
+    display: inline-block;
+    background: #0f0f0f;
+    height: 3px;
+}
+
+.separator-red-light {
+    background: #ff3154;
+    height: 6px;
+    width: 100%;
+    margin-left: -13px position: relative;
+}
+.separator-red-light::after {
+    content: '';
+    width: 50%;
+    display: inline-block;
+    background: #fff;
+    height: 3px;
+}
+
+.separator-red-dark {
+    background: #ff3154;
+    height: 6px;
+    width: 100%;
+    margin-left: -13px position: relative;
+}
+.separator-red-dark::after {
+    content: '';
+    width: 50%;
+    display: inline-block;
+    background: #0f0f0f;
+    height: 3px;
+}
+
+
+
+/*
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+7. font style
+/////////////////////////////
+*/
+
+.text-italic {
+    font-style: italic;
+}
