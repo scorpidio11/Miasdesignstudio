@@ -92,7 +92,7 @@ body {
 
 .navbar-fixed-top .active a {
     background: #0f0f0f !important;
-    color: #FEC900 !important;
+    color: #a99ba3 !important;
 }
 .navbar-fixed-top .active a:hover {
     color: #0f0f0f !important;
@@ -279,7 +279,7 @@ body {
 content: '';
 width: 300px;
 display: block;
-background: #4c5152;
+/* background: #4c5152; */
 height: 6px;
 margin: 5px 0px 0px 0px;
 line-height: 1.1;
@@ -421,7 +421,7 @@ line-height: 1.1;
     content: '';
     width: 300px;
     display: block;
-    background: yellow;
+    background: #acb2b3;
     height: 6px;
     margin: 5px 0px 0px 0px;
     line-height: 1.1;
@@ -576,7 +576,7 @@ section#portfolio {
     position: absolute;
     z-index: 1;
     background: #0f0f0f;
-    border: 35px solid #FEC900;
+    border: 25px solid rgb(134, 134, 133);
     text-align: center;
     -webkit-transform: translateZ(0);
     transform: translateZ(0);
