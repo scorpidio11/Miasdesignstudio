@@ -279,7 +279,7 @@ body {
 content: '';
 width: 300px;
 display: block;
-background: #4c5152;
+background: yellow;
 height: 6px;
 margin: 5px 0px 0px 0px;
 line-height: 1.1;
@@ -1235,7 +1235,7 @@ footer .footer-content a:hover {
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
     color: #ffffff;
-    border-bottom: 3px solid #ffffff;
+    border-bottom: 3px solid yellow;
  background-color: transparent !important;
 
 }
