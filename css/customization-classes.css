@@ -167,9 +167,17 @@ CUSTOMIZATION CLASSES
 }
 .text-small {
     font-size: 16px;
+    font-family: proxima-nova, sans-serif;
 }
 .text-ultrasmall {
     font-size: 14px;
+}
+
+.text-ultrasmall2 {
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif !important;
+    color: black;
+
 }
 
 /*
