@@ -1,2 +1,0 @@
-[17-Sep-2015 20:24:24 UTC] PHP Warning:  include(inc/foot.php): failed to open stream: No such file or directory in /home/metabomatrix/public_html/thankyou/index.php on line 47
-[17-Sep-2015 20:24:24 UTC] PHP Warning:  include(): Failed opening 'inc/foot.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/metabomatrix/public_html/thankyou/index.php on line 47
