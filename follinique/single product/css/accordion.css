@@ -1,0 +1,19 @@
+
+.accordion * {
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+    outline: 0
+}
+
+.accordion-item-arrow:before {
+    content: "\f107";
+    font-family: FontAwesome;
+    float: right;
+    font-size: 18px;
+    transition: all .2s linear
+}
+.active .accordion-item-arrow:before {
+    -ms-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg)
+}
