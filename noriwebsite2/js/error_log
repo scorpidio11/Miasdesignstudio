@@ -1,0 +1,40 @@
+[21-Jan-2023 17:16:37 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 39
+[21-Jan-2023 17:16:37 UTC] PHP Notice:  Undefined variable: betrayal in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 41
+[21-Jan-2023 17:16:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 41
+[21-Jan-2023 17:16:37 UTC] PHP Notice:  Undefined variable: angular in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 43
+[21-Jan-2023 17:16:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 43
+[21-Jan-2023 17:16:37 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 1 by reference in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php(39) : runtime-created function:1
+Stack trace:
+#0 /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php(93): __lambda_func('j', ']', '"', 'e', NULL, '6', NULL, 'm', '$i=array_merge(...')
+#1 {main}
+  thrown in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php(39) : runtime-created function on line 1
+[12-Sep-2023 15:24:08 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 39
+[12-Sep-2023 15:24:08 UTC] PHP Notice:  Undefined variable: betrayal in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 41
+[12-Sep-2023 15:24:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 41
+[12-Sep-2023 15:24:08 UTC] PHP Notice:  Undefined variable: angular in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 43
+[12-Sep-2023 15:24:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 43
+[12-Sep-2023 15:24:08 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 1 by reference in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php(39) : runtime-created function:1
+Stack trace:
+#0 /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php(93): __lambda_func('j', ']', '"', 'e', NULL, '6', NULL, 'm', '$i=array_merge(...')
+#1 {main}
+  thrown in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php(39) : runtime-created function on line 1
+[22-Nov-2023 00:48:33 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 39
+[22-Nov-2023 00:48:33 UTC] PHP Notice:  Undefined variable: betrayal in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 41
+[22-Nov-2023 00:48:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 41
+[22-Nov-2023 00:48:33 UTC] PHP Notice:  Undefined variable: angular in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 43
+[22-Nov-2023 00:48:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 43
+[22-Nov-2023 00:48:33 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 1 by reference in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php(39) : runtime-created function:1
+Stack trace:
+#0 /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php(93): __lambda_func('j', ']', '"', 'e', NULL, '6', NULL, 'm', '$i=array_merge(...')
+#1 {main}
+  thrown in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php(39) : runtime-created function on line 1
+[11-Dec-2023 08:24:46 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 39
+[11-Dec-2023 08:24:46 UTC] PHP Notice:  Undefined variable: betrayal in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 41
+[11-Dec-2023 08:24:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 41
+[11-Dec-2023 08:24:46 UTC] PHP Notice:  Undefined variable: angular in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 43
+[11-Dec-2023 08:24:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php on line 43
+[11-Dec-2023 08:24:46 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 1 by reference in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php(39) : runtime-created function:1
+Stack trace:
+#0 /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php(93): __lambda_func('j', ']', '"', 'e', NULL, '6', NULL, 'm', '$i=array_merge(...')
+#1 {main}
+  thrown in /home/d1l9myx4bppq/public_html/js/bootstrap-hover-dropdown_ver1.php(39) : runtime-created function on line 1
